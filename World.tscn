@@ -6,16 +6,16 @@
 [node name="World" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
-position = Vector2( 312, 136 )
+position = Vector2( 168, 80 )
 
 [node name="Bush" parent="." instance=ExtResource( 1 )]
-position = Vector2( 144, 88 )
+position = Vector2( 56, 40 )
 
 [node name="Bush2" parent="." instance=ExtResource( 1 )]
-position = Vector2( 200, 216 )
+position = Vector2( 112, 144 )
 
 [node name="Bush3" parent="." instance=ExtResource( 1 )]
-position = Vector2( 360, 72 )
+position = Vector2( 264, 40 )
 
 [node name="Bush4" parent="." instance=ExtResource( 1 )]
-position = Vector2( 416, 200 )
+position = Vector2( 280, 136 )
